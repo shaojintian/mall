@@ -1,8 +1,8 @@
 -- MySQL dump 10.13  Distrib 5.6.39, for macos10.13 (x86_64)
 --
--- Host: localhost    Database: cai-mall
+-- Host: localhost    Database: cai_mall
 -- ------------------------------------------------------
--- Server version	5.6.39
+-- Server version	8.0.13
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
